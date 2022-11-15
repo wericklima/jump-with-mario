@@ -19,10 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript 
 - Git e Github
-## 💻 Projeto
-
- 
-## 🔖 Layout
+## 💻 Projeto 
+ Observaçao: faltam algumas atualizações como botão para quem e mobile, esta, bom para quem joga em pc, ‘desktop’ etc.
 
 ## :memo: Licença
 
